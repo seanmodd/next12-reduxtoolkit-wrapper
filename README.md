@@ -1,5 +1,6 @@
 # next12-reduxtoolkit-wrapper
 - ***This is from Kirill Konshin's GitHub [here](https://github.com/kirill-konshin/next-redux-wrapper) and for the Redux Toolkit, which is this example, it is specifically [here](https://github.com/kirill-konshin/next-redux-wrapper/tree/master/packages/demo-redux-toolkit)*** 
+- ***DOES NOT HAVE getStaticProps(), only has getServerSideProps!!!!***
 - ***This is the one with the subject's shown as dynamically rendered pages as shown here:*** 
 ![screenshot](https://github.com/seanmodd/next12-reduxtoolkit-wrapper/blob/main/public/screenshot.png)
 
