@@ -1,6 +1,7 @@
 # next12-reduxtoolkit-wrapper
 - ***This is from Kirill Konshin's GitHub [here](https://github.com/kirill-konshin/next-redux-wrapper) and for the Redux Toolkit, which is this example, it is specifically [here](https://github.com/kirill-konshin/next-redux-wrapper/tree/master/packages/demo-redux-toolkit)*** 
 - ***Below is the README.md of the next-redux-wrapper repo itself:***
+![screenshot](https://github.com/seanmodd/next12-reduxToolkit/blob/main/screenshot.png?raw=true)
 
 # Redux Wrapper for Next.js  <!-- omit in toc -->
 
